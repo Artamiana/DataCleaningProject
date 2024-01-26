@@ -44,7 +44,7 @@
 
 Исходный датасет представляет собой набор данных из таблицы с информацией о резюме, а также таблицу с курсами валют за период с , в который создавались эти резюме (2017-2019 гг) с сайта [MDF.RU](https://mfd.ru/export/#Alias=false&Period=1&timeframeValue=1&timeframeDatePart=day&StartDate=04.10.2021&EndDate=04.10.2021&SaveFormat=0&SaveMode=0&FieldSeparator=%253b&DecimalSeparator=.&DateFormat=yyyyMMdd&TimeFormat=HHmmss&AddHeader=true&RecordFormat=0&Fill=false). 
 
-Файл с данными слишком велик и не может храниться на GitHub. Он выложен на GoogleDisk, и его можно скачать [здесь](https://drive.google.com/file/d/1syvdENCIeSs9r8_2fcvzR2whwF8z-m2Z/view?usp=drive_link). Для корректной работы проекта скачанный файл с данными следует положить в папку [data](./data). 
+Файл с данными слишком велик и не может храниться на GitHub. Он выложен на GoogleDisk, и его можно скачать [здесь](https://drive.google.com/file/d/1syvdENCIeSs9r8_2fcvzR2whwF8z-m2Z/view?usp=drive_link). Для корректной работы проекта скачанный файл с данными следует положить в папку /data. 
 
 
 ## Используемые зависимости
