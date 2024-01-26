@@ -64,7 +64,7 @@ git clone https://github.com/Artamiana/DataCleaningProject
 При желании, Вы можете просмотреть проект в браузере, не клонируя его к себе на компьютер Однако, большинство визуализаций сделано в Plotly для большей наглядности, но GitHub их не отображает. Поэтому в ноутбуке даны ссылки на просмотр каждого графика в формате html через GitHub Pages.
 
 ## Использование проекта
-Вся информация о работе представлена в jupyter-ноутбуке Project-1_Data_Cleaning.ipynb.
+Вся информация о работе представлена в [jupyter-ноутбуке Project-1_Data_Cleaning.ipynb](Project-1_Data_Cleaning.ipynb).
 
 ## Автор
 [Татьяна Артамошина](https://t.me/Tatiana_Artamoshina)
